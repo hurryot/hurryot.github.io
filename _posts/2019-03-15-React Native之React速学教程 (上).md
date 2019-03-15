@@ -7,7 +7,7 @@ author:     转载自https://github.com/crazycodeboy/RNStudyNotes/
 header-img: img/home-bg-art.jpg
 catalog: true
 tags:
-    - React Native
+    - React Native之React速学教程
     - RN学习教程
 ---
 # React Native之React速学教程(上)
