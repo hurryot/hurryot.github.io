@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      GCD 在 Swift 中的用法
+title:      React Native之React速学教程(上)
 subtitle:   
 date:       2019-03-15
 author:     转载自https://github.com/crazycodeboy/RNStudyNotes/
